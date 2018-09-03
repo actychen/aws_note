@@ -1,4 +1,4 @@
-# Q: How to change deafault region?
+# Q: How to change default region?
 ## A: using "aws configure"
 
 ~~~~
